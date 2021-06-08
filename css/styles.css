@@ -1,0 +1,31 @@
+body{
+  font-family: 'Inter', sans-serif;
+}
+.nav-link{
+  color:#ededed;
+}
+.nav-item{
+  font-size: 1.1rem;
+}
+.navbar-brand{
+  margin-left: 2rem;
+}
+.card{
+  text-align: center;
+  border: none;
+}
+.icons{
+  color:#ededed;
+  margin-right: 0.5rem;
+}
+footer{
+  background-color: #DE1D22;
+}
+.redeslista{
+  list-style:none
+}
+.redes{
+  color: #ededed;
+  text-align: center;
+  list-style:none
+}
